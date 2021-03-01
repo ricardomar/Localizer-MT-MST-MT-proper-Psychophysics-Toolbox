@@ -1,4 +1,4 @@
-# Localizer MT MST MT proper Psychophysics Toolbox
+# fMRI Localizer MT MST MT proper Psychophysics Toolbox
 
 - [Demo video 01](https://youtu.be/8zzTYlyTxxU)
 
